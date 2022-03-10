@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(28, 224, 126);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+text-align: center;
+}
+
+section {
+    background: white;
+    margin: auto;
+    width: 500px;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+select {
+    width: 150px;
+}
+
+footer { 
+    text-align: center;
+}
